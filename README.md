@@ -1,6 +1,5 @@
-### CREATED BY ###
-   AADIL SHAIK
-
+# CREATED BY 
+AADIL SHAIK
 
 # SETUP PROJECT
 open project in terminal and run "npm install react"
